@@ -63,11 +63,11 @@ El dashboard tiene tres páginas:
 2. **Ingreso neto:** evolución y variación porcentual contra el mes anterior.
 3. **Concentración:** detalle de septiembre por categoría, método de pago, estado del pago, dispositivo, gasto por canal y stock de productos.
 
-<!-- Agrega aquí tus capturas, por ejemplo:
-![Dato general](images/dashboard_general.png)
-![Ingreso neto](images/dashboard_ingreso_neto.png)
-![Concentración](images/dashboard_concentracion.png)
--->
+
+[Dato general](dash1.png)
+![Ingreso neto](dash2.png)
+![Concentración](3.png)
+
 
 ---
 
