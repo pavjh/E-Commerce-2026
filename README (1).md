@@ -62,12 +62,15 @@ El dashboard tiene tres páginas:
 1. **Dato general:** KPIs (órdenes, ventas completadas, ingreso neto, reembolsos, gasto de marketing) y evolución mensual.
 2. **Ingreso neto:** evolución y variación porcentual contra el mes anterior.
 3. **Concentración:** detalle de septiembre por categoría, método de pago, estado del pago, dispositivo, gasto por canal y stock de productos.
+---
+**Dato general:**
+![Dato general](dash1.png)
 
-
-[Dato general](dash1.png)
+**Ingreso neto:**
 ![Ingreso neto](dash2.png)
-![Concentración](3.png)
 
+**Concentración:**
+![Concentración](3.png)
 
 ---
 
